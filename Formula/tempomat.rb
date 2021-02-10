@@ -6,6 +6,6 @@ class Tempomat < Formula
   version "3.0.0"
 
   def install
-    bin.install "Tempomat.app"
+    bin.install "Tempomat"
   end
 end
